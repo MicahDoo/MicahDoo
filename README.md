@@ -9,7 +9,7 @@
 
 ## 🏆️ Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Micah&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicahDoo&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Micah&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicahDoo&theme=github_dark)
 
 ## 📫 Contact
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> :  `rewoptu@gmail.com`
