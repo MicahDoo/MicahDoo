@@ -6,9 +6,15 @@
 </h4>
 
 ## 🔍 Overview
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MicahDoo&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicahDoo&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicahDoo&theme=github_dark)
+<p align="left">
+  <a href="https://github.com/MicahDoo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=MicahDoo&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicahDoo&layout=compact&langs_count=8&hide=HCL&theme=tokyonight"/>
+  </a>
+</p>
+
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MicahDoo&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicahDoo&theme=default)-->
 
 ## 📱 Contacts
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> :  `rewoptu@gmail.com`
