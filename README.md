@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center"> Hi, this is Micah 👋 </h1>
 <h3 align="center"> </h3>
 <h4 align="center"> 
@@ -8,7 +6,8 @@
 </h4>
 
 ## 🏆️ Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MicahDoo&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicahDoo&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MicahDoo&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=How-Wang&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicahDoo&theme=github_dark)
 
 ## 📫 Contact
