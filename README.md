@@ -5,12 +5,12 @@
   <img src="https://profile-counter.glitch.me/MicahDoo/count.svg" />
 </h4>
 
-## 🏆️ Status
+## 🔍 Overview
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MicahDoo&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicahDoo&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicahDoo&theme=github_dark)
 
-## 📫 Contact
+## 📱 Contacts
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> :  `rewoptu@gmail.com`
 
 <a href ="https://www.facebook.com/MicahDoo">
