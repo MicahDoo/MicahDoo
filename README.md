@@ -1,9 +1,16 @@
-<h1 align="center"> Hi, this is Micah 👋 </h1>
-<h3 align="center"> </h3>
+<h1 align="center"> Hi, I am Micah 👋 </h1>
+<h3 align="center"> Weleome to my GitHub Page </h3>
 <h4 align="center"> 
   Visit Count<br>
   <img src="https://profile-counter.glitch.me/MicahDoo/count.svg" />
 </h4>
+
+## ✨ Highlights
+
+- [Magic Brush: Bringing 2D Doodle Recognition into 3D](https://github.com/MicahDoo/Magic-Brush-Bringing-2D-Doodle-Recognition-into-3D): VR tool allowing players to draw doodles and generate game objects.
+- [The Homecoming Seance](https://github.com/MicahDoo/The-Homecoming-Seance): My escape room horror game.
+- [Randy's Tegridy Jump](https://github.com/MicahDoo/Randy-s-Tegridy-Jump): A funny Doodle Jump game in South Park theme.
+- [Dixit Simulator LineBot](https://github.com/MicahDoo/Dixit-Simulator-LineBot): Play Dixit with your friends in a chat app!
 
 ## 🔍 Overview
 <p align="left">
